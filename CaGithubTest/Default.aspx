@@ -5,6 +5,6 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Welcome to the MAIN branch!
+        Welcome to the DEV branch!
     </h2>
 </asp:Content>
