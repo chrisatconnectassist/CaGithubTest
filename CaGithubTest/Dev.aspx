@@ -5,4 +5,7 @@
     <h2>
         THIS IS THE DEV PAGE!
     </h2>
+    <p>
+        <a href="Default.aspx">LINK TO HOME PAGE</a>
+    </p>
 </asp:Content>
