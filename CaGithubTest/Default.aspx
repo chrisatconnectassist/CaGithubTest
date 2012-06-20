@@ -8,6 +8,6 @@
         Welcome to the MAIN branch!!
     </h2>
     <p>
-        CHANGES!!! More Changes!!
+        CHANGES!!!
     </p>
 </asp:Content>
